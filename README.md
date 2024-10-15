@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pharmacoepidemiology, hypertension and cardiovascular epidemiology
 - 🌱 I’m currently learning SAS and R
 - 💞️ I’m looking to collaborate on cardiovascular research
-- 📫 I can bereached at vharatabc@gmail.com
+- 📫 I can be reached at vharatabc@gmail.com
 
 <!---
 bharatpoudel/bharatpoudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
